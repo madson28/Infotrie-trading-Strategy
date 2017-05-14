@@ -1,8 +1,8 @@
 """
-By looking at the evolution of XPO Logistics' price during the last, we can notice that after a certain time, 
-the stock always come back to a value close to 192. 
-So we can assume that by the end of the month, the stock value, which is 200 today, will fall back to 192.
-Therefore, I will use a mean reversion algorithm.
+By looking at the evolution of XPO Logistics' price during the last year, we can notice that after a certain time, 
+the stock always come back to a value close to 192, which leads me to think that a mean reversion algorithm
+would be suitable in this case.
+Therefore, I will use a mean reversion algorithm. The details of steps are summarized in the pdf file attached to my email.
 """
 
 
